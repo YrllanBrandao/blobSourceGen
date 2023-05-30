@@ -1,0 +1,32 @@
+{
+  "name": "blobsourcegen",
+  "version": "1.0.1",
+  "description": "creates a blob temporary URL to your source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YrllanBrandao/blobSourceGen.git"
+  },
+  "keywords": [
+    "blob",
+    "url",
+    "link",
+    "temporary",
+    "links",
+    "blob",
+    "source"
+  ],
+  "author": "Yrllan Brandão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YrllanBrandao/blobSourceGen/issues"
+  },
+  "homepage": "https://github.com/YrllanBrandao/blobSourceGen#readme",
+  "devDependencies": {
+    "@types/isomorphic-fetch": "^0.0.36",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
